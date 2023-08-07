@@ -1,0 +1,50 @@
+/* sizing */
+.mt{
+    margin-top: 100px;
+    
+}
+.margin{
+    margin-top: 90px;
+}
+.margin-1{
+    margin-top: 60px;
+}
+.margin-2{
+    margin-top: 100px;
+}
+.mt-top{
+    padding-top: 70px;}
+    .px{
+        padding-left: 70px;
+        padding-right: 70px;
+    }
+    .ms{
+        margin-left: 220px;
+    }
+    .w{
+        width: 150px;
+    }
+    .mts{
+        margin-top: 120px;
+    }
+    .mtb{
+        margin-top: 120px;
+    }
+
+
+
+/* colors */
+.fa-solid{
+    color:rgba(82, 67, 194, 1) ;}
+    .colors{
+        background-color:rgba(215, 211, 242, 1) ;}
+        .bg-color{
+            background-color:  rgba(63, 135, 245, 1) ;
+        }
+        .colors-1{
+            color: #ffffff;
+            background-color: rgba(216, 215, 219, 0.104);}   
+            .btn-color{
+                background-color:rgba(255, 78, 78, 1) ;
+                color: white;
+            }
